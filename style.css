@@ -1,0 +1,27 @@
+.header-div{
+    color:rgb(253, 6, 6);
+    background:rgb(2, 215, 253);
+    font-style: Times New Roman;
+    font-weight:bold;
+}
+.header-div p{
+    letter-spacing:2px;
+    color:black;
+    font-size:small;
+    }
+.copy_right_footer{
+position: fixed;
+color:lightsteelblue;
+bottom:0;
+width:100%;
+font-size: 18px;
+background-color: rgb(255, 88, 88);
+line-height: 3;
+text-align: center;
+text-shadow: silver;
+
+}    
+
+    
+
+
